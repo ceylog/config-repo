@@ -1,1 +1,3 @@
-user.name=wglgg
+user:
+  name: wglgg
+  sex: 18
